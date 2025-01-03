@@ -37,7 +37,7 @@ Able to leverage the combined influence of all features, including non-linear in
 to achieve superior performance. 
 
 ## Conclusion 
-**1. Key Takeaway: **
+**1. Key Takeaway:**
 * Neural Networks are highly effective in capturing non-linear relationships and 
 interactions, making them the most suitable model for predicting total Olympic 
 medals. 
@@ -58,14 +58,14 @@ sports funding.
   * Optimize the Neural Network architecture (e.g., number of layers, neurons, 
 activation functions). 
 * Fine-tune parameters for Decision Tree and Random Forest to mitigate 
-overfitting. 
-**3. Cross-Validation: **
+overfitting.
+**3. Cross-Validation:**
   * Use K-Fold Cross-Validation to ensure robust evaluation and minimize bias in 
 model performance. 
-**4. Advanced Models: **
+**4. Advanced Models:**
 * Experiment with more sophisticated models like Gradient Boosting Machines 
 (e.g., XGBoost, CatBoost). 
 * Test convolutional networks for data involving spatial or temporal patterns. 
-**5. Scalability: **
+**5. Scalability:**
 * Extend the analysis to include data from more countries and additional Olympic 
 years to validate model performance across diverse contexts.
